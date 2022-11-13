@@ -17,6 +17,7 @@
         android:textSize="120sp" />
 
     <Button
+        android:id="@+id/btnRoll"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_below="@id/tvDice"
